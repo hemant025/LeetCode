@@ -12,6 +12,7 @@ A collection of LeetCode questions !!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hemant025/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hemant025/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/hemant025/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hemant025/LeetCode/tree/master/0200-number-of-islands) |
+| [0875-koko-eating-bananas](https://github.com/hemant025/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Breadth-First Search
 |  |
 | ------- |
