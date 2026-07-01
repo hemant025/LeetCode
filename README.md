@@ -54,6 +54,7 @@ A collection of LeetCode questions !!
 | ------- |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/hemant025/LeetCode/tree/master/0509-fibonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hemant025/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
