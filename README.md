@@ -28,6 +28,7 @@ A collection of LeetCode questions !!
 | ------- |
 | [0200-number-of-islands](https://github.com/hemant025/LeetCode/tree/master/0200-number-of-islands) |
 | [0875-koko-eating-bananas](https://github.com/hemant025/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hemant025/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions !!
 | ------- |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/hemant025/LeetCode/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hemant025/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hemant025/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
