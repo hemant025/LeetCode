@@ -27,6 +27,7 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hemant025/LeetCode/tree/master/0200-number-of-islands) |
+| [0682-baseball-game](https://github.com/hemant025/LeetCode/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/hemant025/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hemant025/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Breadth-First Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/hemant025/LeetCode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/hemant025/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
