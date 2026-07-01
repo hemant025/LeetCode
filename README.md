@@ -43,6 +43,7 @@ A collection of LeetCode questions !!
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/hemant025/LeetCode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Greedy
 |  |
@@ -73,4 +74,16 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
