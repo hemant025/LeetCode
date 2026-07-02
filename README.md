@@ -54,6 +54,7 @@ A collection of LeetCode questions !!
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hemant025/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/hemant025/LeetCode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hemant025/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions !!
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hemant025/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant025/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions !!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/hemant025/LeetCode/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hemant025/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
