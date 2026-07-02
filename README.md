@@ -56,6 +56,7 @@ A collection of LeetCode questions !!
 | ------- |
 | [0202-happy-number](https://github.com/hemant025/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hemant025/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/hemant025/LeetCode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/hemant025/LeetCode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hemant025/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hemant025/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
